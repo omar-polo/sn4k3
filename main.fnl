@@ -117,6 +117,7 @@
                    {:x 13 :y 9}
                    {:x 12 :y 9}
                    {:x 11 :y 9}])
+  (set direction :right)
   (set candies [])
   (for [i 1 5]
     (place-candy))
