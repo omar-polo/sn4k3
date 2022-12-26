@@ -1,5 +1,5 @@
 FENNEL =	fennel-5.1
-LOVE =		love
+LOVE =		love-11.4
 
 .PHONY: all run clean
 
